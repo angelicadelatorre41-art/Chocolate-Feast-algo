@@ -1,1 +1,1 @@
-# Chocolate-Feast-algo
+# Chocolate-Feast-algo The function first calculates how many chocolates can be bought with the available money. Then, it repeatedly exchanges wrappers for free chocolates until there are not enough wrappers to exchange, summing all chocolates received.
